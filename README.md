@@ -3,7 +3,7 @@
 ## Python3 Output Calculator for Bitcoin/Litecoin Based Currencies.##
 
 
-=== Credits and origin ===
+=== Credits and Origin ===
 
 this is just an update of this google code project from ages ago, i couldnt find a matching github repository:
 
@@ -14,6 +14,14 @@ and the project web page is here:
 https://sites.google.com/site/working4coins/calculator
 
 the original code wasnt mine, and urllib2 is long dead for python3, and it also had a couple of errors. this project is now shippable.
+
+=== Created By === 
+
+@Working4Coins (twitter)
+
+Updated and posted by:
+
+@deddokatana (twitter)
 
 === Usage ===
 
